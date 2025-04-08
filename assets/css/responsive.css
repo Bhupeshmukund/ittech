@@ -3201,7 +3201,7 @@ p.blog-details-desc {
         display: flex;
         align-items: center;
         justify-content: center;
-        margin-top: 0rem;
+        margin-top: -5rem;
     }
     .footer-content{
         align-items: start !important;
