@@ -3193,6 +3193,9 @@ p.blog-details-desc {
 
 /* Mobile Devices :320px. */
 @media (min-width: 320px) and (max-width: 479px) {
+    .style-one.hero-area{
+        background-position: initial !important ;
+    }
     .main-content{
         display: flex;
         align-items: center;
