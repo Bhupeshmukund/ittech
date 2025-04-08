@@ -3195,6 +3195,7 @@ p.blog-details-desc {
 @media (min-width: 320px) and (max-width: 479px) {
     .style-one.hero-area{
         background-position: right !important ;
+        height: 50rem;
     }
     .main-content{
         display: flex;
